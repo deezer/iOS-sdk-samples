@@ -28,7 +28,7 @@ A sample iOS in Objective-C application using Deezer API / iOS SDK
 
 ## Build instructions
 
-  git clone 
+  ```git clone https://github.com/deezer/iOS-sdk-samples.git```
 
   If you have more questions about the iOS SDK ([Deezer SDK for iOS][1])
 
