@@ -1,9 +1,10 @@
+![Deezer](http://cdn-files.deezer.com/img/press/new_logo_white.jpg "Deezer") 
+
+
 # iOS-SDK-samples
 Samples applications using Deezer iOS SDK in Objective-C &amp; Swift
 
-![Deezer](http://cdn-files.deezer.com/img/press/new_logo_white.jpg "Deezer") 
-
-# Deezer SDK iOS Swift Sample
+# Swift
 
 A sample iOS in Swift application using Deezer API / iOS SDK
 
@@ -11,7 +12,7 @@ A sample iOS in Swift application using Deezer API / iOS SDK
     - he can explore his library and play from his Favorite playlists, artists, albums or radios.
     - Search tracks, radios, playlists, artists, albums
   
-# Deezer SDK iOS Objective-C Sample
+# Objective-C
 
 A sample iOS in Objective-C application using Deezer API / iOS SDK
 
