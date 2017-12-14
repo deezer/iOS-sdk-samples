@@ -1,0 +1,50 @@
+// Strings file generated with App Translator
+// Project: ErrorKit-Example
+// Language: de
+// Date: Mon Oct 28 23:15:04 2013
+
+/* No comment provided by engineer. */
+"Application data error occurred."="Anwendungsdaten Fehler aufgetreten.";
+
+/* No comment provided by engineer. */
+"Couldn't connect to server! Please check your Internet connection and try later"="Verbindung zum Server nicht erfolgreich! Bitte überprüfen Sie Ihre Internetverbindung und versuchen es nochmal später.";
+
+/* No comment provided by engineer. */
+"Database error occurred."="Datenbankfehler.";
+
+/* No comment provided by engineer. */
+"Disk I/O error occurred!"="Diskfehler aufgetreten!";
+
+/* No comment provided by engineer. */
+"Invalid data supplied!"="Ungültige Daten!";
+
+/* No comment provided by engineer. */
+"Null value for key '%@'."="NULL-Wert für Schlüssel ' %@'.";
+
+/* No comment provided by engineer. */
+"Operation cancelled!"="Vorgang abgebrochen!";
+
+/* No comment provided by engineer. */
+"Persistent data failure."="Persistenter Datenfehler.";
+
+/* No comment provided by engineer. */
+"Requested invalid URL."="Ungültigen URL.";
+
+/* No comment provided by engineer. */
+"Secure connection failed!"="Sichere Verbindung fehlgeschlagen!";
+
+/* No comment provided by engineer. */
+"The service encountered an error! Please try again later."="Der Dienst hat einen Fehler festgestellt! Bitte versuchen Sie es nochmal später.";
+
+/* No comment provided by engineer. */
+"There was an error while migrating data."="Es ist ein Fehler während der Datenmigration aufgetreten.";
+
+/*  */
+"Unexpected error occurred!"="Unerwarteter Fehler!";
+
+/* No comment provided by engineer. */
+"Unknown error occurred!"="Unbekannter Fehler aufgetreten!";
+
+/* No comment provided by engineer. */
+"Unsupported operation!"="Nicht unterstützte Betrieb!";
+

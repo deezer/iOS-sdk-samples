@@ -1,0 +1,1598 @@
+// Strings file generated with App Translator
+// Project: ErrorKit-Example
+// Language: en
+// Date: Sun Dec 22 15:38:47 2013
+
+/* No comment provided by engineer. */
+"'%@' doesn't have enough entries."="'%@' doesn't have enough entries.";
+
+/* No comment provided by engineer. */
+"'%@' doesn't match the required pattern."="'%@' doesn't match the required pattern.";
+
+/* No comment provided by engineer. */
+"'%@' has too many entries."="'%@' has too many entries.";
+
+/* No comment provided by engineer. */
+"'%@' is invalid."="'%@' is invalid.";
+
+/* No comment provided by engineer. */
+"'%@' is not empty."="'%@' is not empty.";
+
+/* No comment provided by engineer. */
+"'%@' is not optional and must be %@."="'%1$@' is not optional and must be %2$@.";
+
+/* No comment provided by engineer. */
+"'%@' is too large."="'%@' is too large.";
+
+/* No comment provided by engineer. */
+"'%@' is too late."="'%@' is too late.";
+
+/* No comment provided by engineer. */
+"'%@' is too long."="'%@' is too long.";
+
+/* No comment provided by engineer. */
+"'%@' is too short."="'%@' is too short.";
+
+/* No comment provided by engineer. */
+"'%@' is too small."="'%@' is too small.";
+
+/* No comment provided by engineer. */
+"'%@' is too soon."="'%@' is too soon.";
+
+/* No comment provided by engineer. */
+"'%@' must be %@."="'%1$@' must be %2$@.";
+
+/* No comment provided by engineer. */
+"'%@' mustn't be empty."="'%@' mustn't be empty.";
+
+/* No comment provided by engineer. */
+"'<' Required"="'<' Required";
+
+/* No comment provided by engineer. */
+"'<' Used In Attribute Error"="'<' Used In Attribute Error";
+
+/* No comment provided by engineer. */
+"'</' Required"="'</' Required";
+
+/* No comment provided by engineer. */
+"'=' Expected"="'=' Expected";
+
+/* No comment provided by engineer. */
+"'>' Required"="'>' Required";
+
+/* No comment provided by engineer. */
+"AV Error"="AV Error";
+
+/* No comment provided by engineer. */
+"Access Control List Not In Standard Simple Form"="Access Control List Not In Standard Simple Form";
+
+/* No comment provided by engineer. */
+"Access Information Invalid"="Access Information Invalid";
+
+/* No comment provided by engineer. */
+"Account Already Exists"="Account Already Exists";
+
+/* No comment provided by engineer. */
+"Account Already Linked"="Account Already Linked";
+
+/* No comment provided by engineer. */
+"Account Authentication Failed"="Account Authentication Failed";
+
+/* No comment provided by engineer. */
+"Account Error"="Account Error";
+
+/* No comment provided by engineer. */
+"Account Missing Required Property"="Account Missing Required Property";
+
+/* No comment provided by engineer. */
+"Account Not Found"="Account Not Found";
+
+/* No comment provided by engineer. */
+"Account Type Invalid"="Account Type Invalid";
+
+/* No comment provided by engineer. */
+"Activated While Waiting Error"="Activated While Waiting Error";
+
+/* No comment provided by engineer. */
+"Ad Unloaded Error"="Ad Unloaded Error";
+
+/* No comment provided by engineer. */
+"Admob Error"="Admob Error";
+
+/* No comment provided by engineer. */
+"App Disabled"="App Disabled";
+
+/* No comment provided by engineer. */
+"Application Inactive Error"="Application Inactive Error";
+
+/* No comment provided by engineer. */
+"Application Not Authorized"="Application Not Authorized";
+
+/* No comment provided by engineer. */
+"Application data error occurred."="Application data error occurred.";
+
+/* No comment provided by engineer. */
+"Attempt to save application data failed."="Attempt to save application data failed.";
+
+/* No comment provided by engineer. */
+"Attempted access outside data bounds"="Attempted access outside data bounds";
+
+/* No comment provided by engineer. */
+"Attempting to access data created with a different version of the application."="Attempting to access data created with a different version of the application.";
+
+/* No comment provided by engineer. */
+"Attribute Has No Value"="Attribute Has No Value";
+
+/* No comment provided by engineer. */
+"Attribute List Not Finished"="Attribute List Not Finished";
+
+/* No comment provided by engineer. */
+"Attribute List Not Started"="Attribute List Not Started";
+
+/* No comment provided by engineer. */
+"Attribute Non Existent"="Attribute Non Existent";
+
+/* No comment provided by engineer. */
+"Attribute Not Finished"="Attribute Not Finished";
+
+/* No comment provided by engineer. */
+"Attribute Not Started"="Attribute Not Started";
+
+/* No comment provided by engineer. */
+"Attribute Redefined"="Attribute Redefined";
+
+/* No comment provided by engineer. */
+"Authorization/Authentication Failed"="Authorization/Authentication Failed";
+
+/* No comment provided by engineer. */
+"Automatic migration failed."="Automatic migration failed.";
+
+/* No comment provided by engineer. */
+"Background Capture Not Available"="Background Capture Not Available";
+
+/* No comment provided by engineer. */
+"Bad Server Response"="Bad Server Response";
+
+/* No comment provided by engineer. */
+"Bad URL"="Bad URL";
+
+/* No comment provided by engineer. */
+"Banner Visible Without Content"="Banner Visible Without Content";
+
+/* No comment provided by engineer. */
+"Buffer Too Small"="Buffer Too Small";
+
+/* No comment provided by engineer. */
+"By creating a new store you will lose all previously persited data."="By creating a new store you will lose all previously persited data.";
+
+/* No comment provided by engineer. */
+"CDATA Not Finished"="CDATA Not Finished";
+
+/* No comment provided by engineer. */
+"CDATA Required"="CDATA Required";
+
+/* No comment provided by engineer. */
+"Cache Miss"="Cache Miss";
+
+/* No comment provided by engineer. */
+"Call Is Active"="Call Is Active";
+
+/* No comment provided by engineer. */
+"Cancel"="Cancel";
+
+/* No comment provided by engineer. */
+"Cancelled"="Cancelled";
+
+/* No comment provided by engineer. */
+"Cannot Close File"="Cannot Close File";
+
+/* No comment provided by engineer. */
+"Cannot Connect To Host"="Cannot Connect To Host";
+
+/* No comment provided by engineer. */
+"Cannot Create File"="Cannot Create File";
+
+/* No comment provided by engineer. */
+"Cannot Decode Content Data"="Cannot Decode Content Data";
+
+/* No comment provided by engineer. */
+"Cannot Decode Raw Data"="Cannot Decode Raw Data";
+
+/* No comment provided by engineer. */
+"Cannot Filter Deferred Distance"="Cannot Filter Deferred Distance";
+
+/* No comment provided by engineer. */
+"Cannot Find Host"="Cannot Find Host";
+
+/* No comment provided by engineer. */
+"Cannot Load From Network"="Cannot Load From Network";
+
+/* No comment provided by engineer. */
+"Cannot Move File"="Cannot Move File";
+
+/* No comment provided by engineer. */
+"Cannot Open File"="Cannot Open File";
+
+/* No comment provided by engineer. */
+"Cannot Parse Entity"="Cannot Parse Entity";
+
+/* No comment provided by engineer. */
+"Cannot Parse External Entity"="Cannot Parse External Entity";
+
+/* No comment provided by engineer. */
+"Cannot Parse Response"="Cannot Parse Response";
+
+/* No comment provided by engineer. */
+"Cannot Remove File"="Cannot Remove File";
+
+/* No comment provided by engineer. */
+"Cannot Write To File"="Cannot Write To File";
+
+/* No comment provided by engineer. */
+"Certificate Chain Creation Failed"="Certificate Chain Creation Failed";
+
+/* No comment provided by engineer. */
+"Change URL"="Change URL";
+
+/* No comment provided by engineer. */
+"Character Reference Target Not Found"="Character Reference Target Not Found";
+
+/* No comment provided by engineer. */
+"Client Certificate Rejected"="Client Certificate Rejected";
+
+/* No comment provided by engineer. */
+"Client Certificate Required"="Client Certificate Required";
+
+/* No comment provided by engineer. */
+"Command Unavailable"="Command Unavailable";
+
+/* No comment provided by engineer. */
+"Comment Contains Double Hyphen"="Comment Contains Double Hyphen";
+
+/* No comment provided by engineer. */
+"Comment Not Finished"="Comment Not Finished";
+
+/* No comment provided by engineer. */
+"Compatible store"="Compatible store";
+
+/* No comment provided by engineer. */
+"Conditional Section Not Finished"="Conditional Section Not Finished";
+
+/* No comment provided by engineer. */
+"Conditional Section Not Started"="Conditional Section Not Started";
+
+/* No comment provided by engineer. */
+"Configuration Error"="Configuration Error";
+
+/* No comment provided by engineer. */
+"Connect"="Connect";
+
+/* No comment provided by engineer. */
+"Connect to"="Connect to";
+
+/* No comment provided by engineer. */
+"Connecting..."="Connecting...";
+
+/* No comment provided by engineer. */
+"Connection Failed"="Connection Failed";
+
+/* No comment provided by engineer. */
+"Connection Lost"="Connection Lost";
+
+/* No comment provided by engineer. */
+"Connection failed"="Connection failed";
+
+/* No comment provided by engineer. */
+"Content Is Protected"="Content Is Protected";
+
+/* No comment provided by engineer. */
+"Content Not Authorized"="Content Not Authorized";
+
+/* No comment provided by engineer. */
+"Corrupt File"="Corrupt File";
+
+/* No comment provided by engineer. */
+"Couldn't connect to server! Please check your Internet connection and try later"="Couldn't connect to server! Please check your Internet connection and try later.";
+
+/* No comment provided by engineer. */
+"Create new store"="Create new store";
+
+/* No comment provided by engineer. */
+"DNS Lookup Failed"="DNS Lookup Failed";
+
+/* No comment provided by engineer. */
+"DOCTYPE Declaration Not Finished"="DOCTYPE Declaration Not Finished";
+
+/* No comment provided by engineer. */
+"Data Base Error"="Data Base Error";
+
+/* No comment provided by engineer. */
+"Data Error"="Data Error";
+
+/* No comment provided by engineer. */
+"Data Length Exceeds Maximum"="Data Length Exceeds Maximum";
+
+/* No comment provided by engineer. */
+"Data Not Allowed"="Data Not Allowed";
+
+/* No comment provided by engineer. */
+"Data Not Available"="Data Not Available";
+
+/* No comment provided by engineer. */
+"Data Not Modifiable"="Data Not Modifiable";
+
+/* No comment provided by engineer. */
+"Data Too Large"="Data Too Large";
+
+/* No comment provided by engineer. */
+"Database error occurred."="Database error occurred.";
+
+/* No comment provided by engineer. */
+"Date Too Late"="Date Too Late";
+
+/* No comment provided by engineer. */
+"Date Too Soon"="Date Too Soon";
+
+/* No comment provided by engineer. */
+"Decode Failed"="Decode Failed";
+
+/* No comment provided by engineer. */
+"Decoder Not Found"="Decoder Not Found";
+
+/* No comment provided by engineer. */
+"Decoder Temporarily Unavailable"="Decoder Temporarily Unavailable";
+
+/* No comment provided by engineer. */
+"Default Keychain Non Existent"="Default Keychain Non Existent";
+
+/* No comment provided by engineer. */
+"Deferred Accuracy Too Low"="Deferred Accuracy Too Low";
+
+/* No comment provided by engineer. */
+"Deferred Not Updating Location"="Deferred Not Updating Location";
+
+/* No comment provided by engineer. */
+"Deferred Update Canceled"="Deferred Update Canceled";
+
+/* No comment provided by engineer. */
+"Deferred Update Failed"="Deferred Update Failed";
+
+/* No comment provided by engineer. */
+"Delegate Aborted Parse"="Delegate Aborted Parse";
+
+/* No comment provided by engineer. */
+"Delete Denied"="Delete Denied";
+
+/* No comment provided by engineer. */
+"Denied"="Denied";
+
+/* No comment provided by engineer. */
+"Destination Store Error"="Destination Store Error";
+
+/* No comment provided by engineer. */
+"Device Busy"="Device Busy";
+
+/* No comment provided by engineer. */
+"Device Disconnected"="Device Disconnected";
+
+/* No comment provided by engineer. */
+"Device Not Connected"="Device Not Connected";
+
+/* No comment provided by engineer. */
+"Disk Full"="Disk Full";
+
+/* No comment provided by engineer. */
+"Disk I/O error occurred!"="Disk I/O error occurred!";
+
+/* No comment provided by engineer. */
+"Display Inactive"="Display Inactive";
+
+/* No comment provided by engineer. */
+"Document Start Error"="Document Start Error";
+
+/* No comment provided by engineer. */
+"Download Decoding Failed"="Download Decoding Failed";
+
+/* No comment provided by engineer. */
+"Download Decoding Failed To Complete"="Download Decoding Failed To Complete";
+
+/* No comment provided by engineer. */
+"Duplicate Callback"="Duplicate Callback";
+
+/* No comment provided by engineer. */
+"Duplicate Keychain"="Duplicate Keychain";
+
+/* No comment provided by engineer. */
+"Duplicate Value"="Duplicate Value";
+
+/* No comment provided by engineer. */
+"Element Content Declaration Not Finished"="Element Content Declaration Not Finished";
+
+/* No comment provided by engineer. */
+"Element Content Declaration Not Started"="Element Content Declaration Not Started";
+
+/* No comment provided by engineer. */
+"Email Missing"="Email Missing";
+
+/* No comment provided by engineer. */
+"Email Not Found"="Email Not Found";
+
+/* No comment provided by engineer. */
+"Email Taken"="Email Taken";
+
+/* No comment provided by engineer. */
+"Empty Document"="Empty Document";
+
+/* No comment provided by engineer. */
+"Encoder Not Found"="Encoder Not Found";
+
+/* No comment provided by engineer. */
+"Encoder Temporarily Unavailable"="Encoder Temporarily Unavailable";
+
+/* No comment provided by engineer. */
+"Encoding Not Supported"="Encoding Not Supported";
+
+/* No comment provided by engineer. */
+"Entity Boundary Error"="Entity Boundary Error";
+
+/* No comment provided by engineer. */
+"Entity Is Parameter Error"="Entity Is Parameter Error";
+
+/* No comment provided by engineer. */
+"Entity Migration Policy Error"="Entity Migration Policy Error";
+
+/* No comment provided by engineer. */
+"Entity Not Finished"="Entity Not Finished";
+
+/* No comment provided by engineer. */
+"Entity Not Started"="Entity Not Started";
+
+/* No comment provided by engineer. */
+"Entity Reference Loop Error"="Entity Reference Loop Error";
+
+/* No comment provided by engineer. */
+"Entity Reference Missing Semicolon"="Entity Reference Missing Semicolon";
+
+/* No comment provided by engineer. */
+"Entity Reference Target Not Found"="Entity Reference Target Not Found";
+
+/* No comment provided by engineer. */
+"Entity Reference Target Not Found In Epilog"="Entity Reference Target Not Found In Epilog";
+
+/* No comment provided by engineer. */
+"Entity Reference Target Not Found In Internal Subset"="Entity Reference Target Not Found In Internal Subset";
+
+/* No comment provided by engineer. */
+"Entity Reference Target Not Found In Prolog"="Entity Reference Target Not Found In Prolog";
+
+/* No comment provided by engineer. */
+"Entity Reference Without Name"="Entity Reference Without Name";
+
+/* No comment provided by engineer. */
+"Entity Value Required"="Entity Value Required";
+
+/* No comment provided by engineer. */
+"Error"="Error";
+
+/* No comment provided by engineer. */
+"Error creating archive"="Error creating archive";
+
+/* No comment provided by engineer. */
+"Error extracting archive"="Error extracting archive";
+
+/* No comment provided by engineer. */
+"Error. Please try again later."="Error. Please try again later.";
+
+/* No comment provided by engineer. */
+"Exceeded Quota"="Exceeded Quota";
+
+/* No comment provided by engineer. */
+"Exception caught"="Exception caught";
+
+/* No comment provided by engineer. */
+"Executable Architecture Mismatch"="Executable Architecture Mismatch";
+
+/* No comment provided by engineer. */
+"Executable Error"="Executable Error";
+
+/* No comment provided by engineer. */
+"Executable Link Error"="Executable Link Error";
+
+/* No comment provided by engineer. */
+"Executable Load Error"="Executable Load Error";
+
+/* No comment provided by engineer. */
+"Executable Not Loadable"="Executable Not Loadable";
+
+/* No comment provided by engineer. */
+"Executable Runtime Mismatch"="Executable Runtime Mismatch";
+
+/* No comment provided by engineer. */
+"Export Failed"="Export Failed";
+
+/* No comment provided by engineer. */
+"External Record Import Error"="External Record Import Error";
+
+/* No comment provided by engineer. */
+"External Relationship Error"="External Relationship Error";
+
+/* No comment provided by engineer. */
+"External Standalone Entity Error"="External Standalone Entity Error";
+
+/* No comment provided by engineer. */
+"External Subset Not Finished"="External Subset Not Finished";
+
+/* No comment provided by engineer. */
+"Extra Content Error"="Extra Content Error";
+
+/* No comment provided by engineer. */
+"FBAppEvents Error"="FBAppEvents Error";
+
+/* No comment provided by engineer. */
+"Facebook Error"="Facebook Error";
+
+/* No comment provided by engineer. */
+"Facebook session does not match with the current user. Please log in again."="Facebook session does not match with the current user. Please log in again.";
+
+/* No comment provided by engineer. */
+"File Already Exists"="File Already Exists";
+
+/* No comment provided by engineer. */
+"File Delete Failure"="File Delete Failure";
+
+/* No comment provided by engineer. */
+"File Does Not Exist"="File Does Not Exist";
+
+/* No comment provided by engineer. */
+"File Error"="File Error";
+
+/* No comment provided by engineer. */
+"File Is Directory"="File Is Directory";
+
+/* No comment provided by engineer. */
+"File Locking Error"="File Locking Error";
+
+/* No comment provided by engineer. */
+"File Read Error"="File Read Error";
+
+/* No comment provided by engineer. */
+"File Too Large"="File Too Large";
+
+/* No comment provided by engineer. */
+"File Write Error"="File Write Error";
+
+/* No comment provided by engineer. */
+"Formatting Error"="Formatting Error";
+
+/* No comment provided by engineer. */
+"Generic validation error."="Generic validation error.";
+
+/* No comment provided by engineer. */
+"Geocode Canceled"="Geocode Canceled";
+
+/* No comment provided by engineer. */
+"Geocode Found No Result"="Geocode Found No Result";
+
+/* No comment provided by engineer. */
+"Geocode Found Partial Result"="Geocode Found Partial Result";
+
+/* No comment provided by engineer. */
+"Go to Settings > Facebook and turn ON %@."="Go to Settings > Facebook and turn ON %@.";
+
+/* No comment provided by engineer. */
+"Grant permission"="Grant permission";
+
+/* No comment provided by engineer. */
+"Graph Error"="Graph Error";
+
+/* No comment provided by engineer. */
+"HTTP Error"="HTTP Error";
+
+/* No comment provided by engineer. */
+"HTTP Too Many Redirects"="HTTP Too Many Redirects";
+
+/* No comment provided by engineer. */
+"Heading Failure"="Heading Failure";
+
+/* No comment provided by engineer. */
+"Help"="Help";
+
+/* No comment provided by engineer. */
+"Inapplicable Encoding"="Inapplicable Encoding";
+
+/* No comment provided by engineer. */
+"Incompatible Asset"="Incompatible Asset";
+
+/* No comment provided by engineer. */
+"Incompatible Schema"="Incompatible Schema";
+
+/* No comment provided by engineer. */
+"Incompatible Version Hash"="Incompatible Version Hash";
+
+/* No comment provided by engineer. */
+"Incompatible store"="Incompatible store";
+
+/* No comment provided by engineer. */
+"Incomplete Save"="Incomplete Save";
+
+/* No comment provided by engineer. */
+"Incorrect Type"="Incorrect Type";
+
+/* No comment provided by engineer. */
+"Inferred Mapping Model Error"="Inferred Mapping Model Error";
+
+/* No comment provided by engineer. */
+"Interaction Not Allowed"="Interaction Not Allowed";
+
+/* No comment provided by engineer. */
+"Internal Error"="Internal Error";
+
+/* No comment provided by engineer. */
+"Internal Error In Parsed Entity Reference"="Internal Error In Parsed Entity Reference";
+
+/* No comment provided by engineer. */
+"Internal Server Error"="Internal Server Error";
+
+/* No comment provided by engineer. */
+"International Roaming Off"="International Roaming Off";
+
+/* No comment provided by engineer. */
+"Interstitial Already Used"="Interstitial Already Used";
+
+/* No comment provided by engineer. */
+"Invalid ACL"="Invalid ACL";
+
+/* No comment provided by engineer. */
+"Invalid Ad Size"="Invalid Ad Size";
+
+/* No comment provided by engineer. */
+"Invalid Callback"="Invalid Callback";
+
+/* No comment provided by engineer. */
+"Invalid Channel Name"="Invalid Channel Name";
+
+/* No comment provided by engineer. */
+"Invalid Character"="Invalid Character";
+
+/* No comment provided by engineer. */
+"Invalid Character In Entity"="Invalid Character In Entity";
+
+/* No comment provided by engineer. */
+"Invalid Character Reference In DTD"="Invalid Character Reference In DTD";
+
+/* No comment provided by engineer. */
+"Invalid Character Reference In Epilog"="Invalid Character Reference In Epilog";
+
+/* No comment provided by engineer. */
+"Invalid Character Reference In Prolog"="Invalid Character Reference In Prolog";
+
+/* No comment provided by engineer. */
+"Invalid Class Name"="Invalid Class Name";
+
+/* No comment provided by engineer. */
+"Invalid Client"="Invalid Client";
+
+/* No comment provided by engineer. */
+"Invalid Conditional Section"="Invalid Conditional Section";
+
+/* No comment provided by engineer. */
+"Invalid Date"="Invalid Date";
+
+/* No comment provided by engineer. */
+"Invalid Decimal Character Reference"="Invalid Decimal Character Reference";
+
+/* No comment provided by engineer. */
+"Invalid Destination Duration"="Invalid Destination Duration";
+
+/* No comment provided by engineer. */
+"Invalid Device Token"="Invalid Device Token";
+
+/* No comment provided by engineer. */
+"Invalid Email Address"="Invalid Email Address";
+
+/* No comment provided by engineer. */
+"Invalid Encoding"="Invalid Encoding";
+
+/* No comment provided by engineer. */
+"Invalid Encoding Name"="Invalid Encoding Name";
+
+/* No comment provided by engineer. */
+"Invalid Entity Reference In DTD"="Invalid Entity Reference In DTD";
+
+/* No comment provided by engineer. */
+"Invalid Entity Reference In Epilog"="Invalid Entity Reference In Epilog";
+
+/* No comment provided by engineer. */
+"Invalid Entity Reference In Prolog"="Invalid Entity Reference In Prolog";
+
+/* No comment provided by engineer. */
+"Invalid Error"="Invalid Error";
+
+/* No comment provided by engineer. */
+"Invalid File Name"="Invalid File Name";
+
+/* No comment provided by engineer. */
+"Invalid Hex Character Reference"="Invalid Hex Character Reference";
+
+/* No comment provided by engineer. */
+"Invalid ImageData"="Invalid ImageData";
+
+/* No comment provided by engineer. */
+"Invalid Item Reference"="Invalid Item Reference";
+
+/* No comment provided by engineer. */
+"Invalid JSON"="Invalid JSON";
+
+/* No comment provided by engineer. */
+"Invalid JSON Pattern"="Invalid JSON Pattern";
+
+/* No comment provided by engineer. */
+"Invalid Key Name"="Invalid Key Name";
+
+/* No comment provided by engineer. */
+"Invalid Keychain"="Invalid Keychain";
+
+/* No comment provided by engineer. */
+"Invalid Linked Session"="Invalid Linked Session";
+
+/* No comment provided by engineer. */
+"Invalid Namespace Declaration"="Invalid Namespace Declaration";
+
+/* No comment provided by engineer. */
+"Invalid Nested Key"="Invalid Nested Key";
+
+/* No comment provided by engineer. */
+"Invalid Owner Edit Attempt"="Invalid Owner Edit Attempt";
+
+/* No comment provided by engineer. */
+"Invalid Parameter"="Invalid Parameter";
+
+/* No comment provided by engineer. */
+"Invalid Payment"="Invalid Payment";
+
+/* No comment provided by engineer. */
+"Invalid Pointer"="Invalid Pointer";
+
+/* No comment provided by engineer. */
+"Invalid Product Identifier"="Invalid Product Identifier";
+
+/* No comment provided by engineer. */
+"Invalid Purchase Receipt"="Invalid Purchase Receipt";
+
+/* No comment provided by engineer. */
+"Invalid Query"="Invalid Query";
+
+/* No comment provided by engineer. */
+"Invalid Request"="Invalid Request";
+
+/* No comment provided by engineer. */
+"Invalid Response"="Invalid Response";
+
+/* No comment provided by engineer. */
+"Invalid Role Name"="Invalid Role Name";
+
+/* No comment provided by engineer. */
+"Invalid Search Reference"="Invalid Search Reference";
+
+/* No comment provided by engineer. */
+"Invalid Server Response"="Invalid Server Response";
+
+/* No comment provided by engineer. */
+"Invalid Source Duration"="Invalid Source Duration";
+
+/* No comment provided by engineer. */
+"Invalid Source Media"="Invalid Source Media";
+
+/* No comment provided by engineer. */
+"Invalid Source Start Time"="Invalid Source Start Time";
+
+/* No comment provided by engineer. */
+"Invalid Trust Setting"="Invalid Trust Setting";
+
+/* No comment provided by engineer. */
+"Invalid Type"="Invalid Type";
+
+/* No comment provided by engineer. */
+"Invalid URI"="Invalid URI";
+
+/* No comment provided by engineer. */
+"Invalid Video Composition"="Invalid Video Composition";
+
+/* No comment provided by engineer. */
+"Invalid access to remote object"="Invalid access to remote object";
+
+/* No comment provided by engineer. */
+"Invalid argument"="Invalid argument";
+
+/* No comment provided by engineer. */
+"Invalid data supplied!"="Invalid data supplied!";
+
+/* No comment provided by engineer. */
+"Invalid operation"="Invalid operation";
+
+/* No comment provided by engineer. */
+"Invalid pattern."="Invalid pattern.";
+
+/* No comment provided by engineer. */
+"Inventory Unavailable"="Inventory Unavailable";
+
+/* No comment provided by engineer. */
+"Item Already Exists"="Item Already Exists";
+
+/* No comment provided by engineer. */
+"Item Not Found"="Item Not Found";
+
+/* No comment provided by engineer. */
+"JSON Error"="JSON Error";
+
+/* No comment provided by engineer. */
+"JSON value"="JSON value";
+
+/* No comment provided by engineer. */
+"Key Size Not Allowed"="Key Size Not Allowed";
+
+/* No comment provided by engineer. */
+"Keychain Class Non Existent"="Keychain Class Non Existent";
+
+/* No comment provided by engineer. */
+"Keychain Error"="Keychain Error";
+
+/* No comment provided by engineer. */
+"Keychain Non Existent"="Keychain Non Existent";
+
+/* No comment provided by engineer. */
+"LinkedId Missing"="LinkedId Missing";
+
+/* No comment provided by engineer. */
+"Literal Not Finished"="Literal Not Finished";
+
+/* No comment provided by engineer. */
+"Literal Not Started"="Literal Not Started";
+
+/* No comment provided by engineer. */
+"Loading Throttled"="Loading Throttled";
+
+/* No comment provided by engineer. */
+"Location Error"="Location Error";
+
+/* No comment provided by engineer. */
+"Location Unknown"="Location Unknown";
+
+/* No comment provided by engineer. */
+"Locking Error"="Locking Error";
+
+/* No comment provided by engineer. */
+"Log in"="Log in";
+
+/* No comment provided by engineer. */
+"Login Failed Or Cancelled"="Login Failed Or Cancelled";
+
+/* No comment provided by engineer. */
+"Mail Cancelled"="Mail Cancelled";
+
+/* No comment provided by engineer. */
+"Mail Error"="Mail Error";
+
+/* No comment provided by engineer. */
+"Mail Failed"="Mail Failed";
+
+/* No comment provided by engineer. */
+"Mail Save Failed"="Mail Save Failed";
+
+/* No comment provided by engineer. */
+"Mail Saved"="Mail Saved";
+
+/* No comment provided by engineer. */
+"Mail Send Failed"="Mail Send Failed";
+
+/* No comment provided by engineer. */
+"Mail Sent"="Mail Sent";
+
+/* No comment provided by engineer. */
+"Malloc exception"="Malloc exception";
+
+/* No comment provided by engineer. */
+"Map Error"="Map Error";
+
+/* No comment provided by engineer. */
+"Maximum Duration Reached"="Maximum Duration Reached";
+
+/* No comment provided by engineer. */
+"Maximum File Size Reached"="Maximum File Size Reached";
+
+/* No comment provided by engineer. */
+"Maximum Number Of Samples Reached"="Maximum Number Of Samples Reached";
+
+/* No comment provided by engineer. */
+"Media Changed"="Media Changed";
+
+/* No comment provided by engineer. */
+"Media Discontinuity"="Media Discontinuity";
+
+/* No comment provided by engineer. */
+"Media Services Unavailable"="Media Services Unavailable";
+
+/* No comment provided by engineer. */
+"Mediation Adapter Error"="Mediation Adapter Error";
+
+/* No comment provided by engineer. */
+"Memory Allocation Error"="Memory Allocation Error";
+
+/* No comment provided by engineer. */
+"Merge Error"="Merge Error";
+
+/* No comment provided by engineer. */
+"Message Cancelled"="Message Cancelled";
+
+/* No comment provided by engineer. */
+"Message Failed"="Message Failed";
+
+/* No comment provided by engineer. */
+"Message Sent"="Message Sent";
+
+/* No comment provided by engineer. */
+"Migrate data"="Migrate data";
+
+/* No comment provided by engineer. */
+"Migration Cancelled"="Migration Cancelled";
+
+/* No comment provided by engineer. */
+"Migration Error"="Migration Error";
+
+/* No comment provided by engineer. */
+"Misplaced CDATA End String"="Misplaced CDATA End String";
+
+/* No comment provided by engineer. */
+"Misplaced XML Declaration"="Misplaced XML Declaration";
+
+/* No comment provided by engineer. */
+"Missing DTD"="Missing DTD";
+
+/* No comment provided by engineer. */
+"Missing Mandatory Property"="Missing Mandatory Property";
+
+/* No comment provided by engineer. */
+"Missing Mapping Model"="Missing Mapping Model";
+
+/* No comment provided by engineer. */
+"Missing Object Id"="Missing Object Id";
+
+/* No comment provided by engineer. */
+"Missing Required Data"="Missing Required Data";
+
+/* No comment provided by engineer. */
+"Missing Source Model"="Missing Source Model";
+
+/* No comment provided by engineer. */
+"Mixed Content Declaration Not Finished"="Mixed Content Declaration Not Finished";
+
+/* No comment provided by engineer. */
+"Mixed Content Declaration Not Started"="Mixed Content Declaration Not Started";
+
+/* No comment provided by engineer. */
+"Multiple Validation Errors"="Multiple Validation Errors";
+
+/* No comment provided by engineer. */
+"Must Create User Through Signup"="Must Create User Through Signup";
+
+/* No comment provided by engineer. */
+"NAME Required"="NAME Required";
+
+/* No comment provided by engineer. */
+"NAME Token Required"="NAME Token Required";
+
+/* No comment provided by engineer. */
+"Native Dialog Error"="Native Dialog Error";
+
+/* No comment provided by engineer. */
+"Network Error"="Network Error";
+
+/* No comment provided by engineer. */
+"No Access Control For Item"="No Access Control For Item";
+
+/* No comment provided by engineer. */
+"No Ad Error"="No Ad Error";
+
+/* No comment provided by engineer. */
+"No Certificate Module Available"="No Certificate Module Available";
+
+/* No comment provided by engineer. */
+"No Data Captured"="No Data Captured";
+
+/* No comment provided by engineer. */
+"No Error"="No Error";
+
+/* No comment provided by engineer. */
+"No Image At Time"="No Image At Time";
+
+/* No comment provided by engineer. */
+"No Permissions To Read File"="No Permissions To Read File";
+
+/* No comment provided by engineer. */
+"No Policy Module Available"="No Policy Module Available";
+
+/* No comment provided by engineer. */
+"No Read Permission"="No Read Permission";
+
+/* No comment provided by engineer. */
+"No Storage Module"="No Storage Module";
+
+/* No comment provided by engineer. */
+"No Such File"="No Such File";
+
+/* No comment provided by engineer. */
+"No Trust Results Available"="No Trust Results Available";
+
+/* No comment provided by engineer. */
+"No Write Permission"="No Write Permission";
+
+/* No comment provided by engineer. */
+"No error description provided"="No error description provided";
+
+/* No comment provided by engineer. */
+"Not Connected To Internet"="Not Connected To Internet";
+
+/* No comment provided by engineer. */
+"Not Initialized"="Not Initialized";
+
+/* No comment provided by engineer. */
+"Not Well Balanced"="Not Well Balanced";
+
+/* No comment provided by engineer. */
+"Not logged in."="Not logged in.";
+
+/* No comment provided by engineer. */
+"Notation Not Finished"="Notation Not Finished";
+
+/* No comment provided by engineer. */
+"Notation Not Started"="Notation Not Started";
+
+/* No comment provided by engineer. */
+"Null value for key '%@'."="Null value for key '%@'.";
+
+/* No comment provided by engineer. */
+"Number Too Large"="Number Too Large";
+
+/* No comment provided by engineer. */
+"Number Too Small"="Number Too Small";
+
+/* No comment provided by engineer. */
+"OK"="OK";
+
+/* No comment provided by engineer. */
+"OS Version Too Low"="OS Version Too Low";
+
+/* No comment provided by engineer. */
+"Object Not Found"="Object Not Found";
+
+/* No comment provided by engineer. */
+"Object Too Large"="Object Too Large";
+
+/* No comment provided by engineer. */
+"Operation Cancelled"="Operation Cancelled";
+
+/* No comment provided by engineer. */
+"Operation Error"="Operation Error";
+
+/* No comment provided by engineer. */
+"Operation Forbidden"="Operation Forbidden";
+
+/* No comment provided by engineer. */
+"Operation Interrupted"="Operation Interrupted";
+
+/* No comment provided by engineer. */
+"Operation Not Supported"="Operation Not Supported";
+
+/* No comment provided by engineer. */
+"Operation cancelled!"="Operation cancelled!";
+
+/* No comment provided by engineer. */
+"Out Of Memory"="Out Of Memory";
+
+/* No comment provided by engineer. */
+"Out Of Space"="Out Of Space";
+
+/* No comment provided by engineer. */
+"Parse Error"="Parse Error";
+
+/* No comment provided by engineer. */
+"Parse Failed"="Parse Failed";
+
+/* No comment provided by engineer. */
+"Parsed Entity Reference Missing Semicolon"="Parsed Entity Reference Missing Semicolon";
+
+/* No comment provided by engineer. */
+"Parsed Entity Reference Without Name"="Parsed Entity Reference Without Name";
+
+/* No comment provided by engineer. */
+"Password Missing"="Password Missing";
+
+/* No comment provided by engineer. */
+"Pattern Matching Error"="Pattern Matching Error";
+
+/* No comment provided by engineer. */
+"Payment Cancelled"="Payment Cancelled";
+
+/* No comment provided by engineer. */
+"Payment Disabled"="Payment Disabled";
+
+/* No comment provided by engineer. */
+"Payment Not Allowed"="Payment Not Allowed";
+
+/* No comment provided by engineer. */
+"Permission Denied"="Permission Denied";
+
+/* No comment provided by engineer. */
+"Permission Error"="Permission Error";
+
+/* No comment provided by engineer. */
+"Persistent Store Open Error"="Persistent Store Open Error";
+
+/* No comment provided by engineer. */
+"Persistent data failure."="Persistent data failure.";
+
+/* No comment provided by engineer. */
+"Placemark Not Found"="Placemark Not Found";
+
+/* No comment provided by engineer. */
+"Please check your internet connection and try again."="Please check your internet connection and try again.";
+
+/* No comment provided by engineer. */
+"Please contact support."="Please contact support.";
+
+/* No comment provided by engineer. */
+"Policy Not Found"="Policy Not Found";
+
+/* No comment provided by engineer. */
+"Port error occurred on receive"="Port error occurred on receive";
+
+/* No comment provided by engineer. */
+"Port error occurred on send"="Port error occurred on send";
+
+/* No comment provided by engineer. */
+"Premature Document End"="Premature Document End";
+
+/* No comment provided by engineer. */
+"Processing Instruction Not Finished"="Processing Instruction Not Finished";
+
+/* No comment provided by engineer. */
+"Processing Instruction Not Started"="Processing Instruction Not Started";
+
+/* No comment provided by engineer. */
+"Product Download File System Failure"="Product Download File System Failure";
+
+/* No comment provided by engineer. */
+"Product Not Available"="Product Not Available";
+
+/* No comment provided by engineer. */
+"Product Not Found In AppStore"="Product Not Found In AppStore";
+
+/* No comment provided by engineer. */
+"Property List Corrupt"="Property List Corrupt";
+
+/* No comment provided by engineer. */
+"Property List Error"="Property List Error";
+
+/* No comment provided by engineer. */
+"Property List Stream Error"="Property List Stream Error";
+
+/* No comment provided by engineer. */
+"Property List Unknown Version"="Property List Unknown Version";
+
+/* No comment provided by engineer. */
+"Protocol Mismatch"="Protocol Mismatch";
+
+/* No comment provided by engineer. */
+"Public Identifier Required"="Public Identifier Required";
+
+/* No comment provided by engineer. */
+"Publish Install Response Error"="Publish Install Response Error";
+
+/* No comment provided by engineer. */
+"Push Misconfigured"="Push Misconfigured";
+
+/* No comment provided by engineer. */
+"Read Only Attribute"="Read Only Attribute";
+
+/* No comment provided by engineer. */
+"Read Only Error"="Read Only Error";
+
+/* No comment provided by engineer. */
+"Read Only Volume"="Read Only Volume";
+
+/* No comment provided by engineer. */
+"Receipt Missing"="Receipt Missing";
+
+/* No comment provided by engineer. */
+"Receive port became invalid"="Receive port became invalid";
+
+/* No comment provided by engineer. */
+"Redirect To Non Existent Location"="Redirect To Non Existent Location";
+
+/* No comment provided by engineer. */
+"Reference Not Allowed"="Reference Not Allowed";
+
+/* No comment provided by engineer. */
+"Referential Integrity Error"="Referential Integrity Error";
+
+/* No comment provided by engineer. */
+"Region Monitoring Denied"="Region Monitoring Denied";
+
+/* No comment provided by engineer. */
+"Region Monitoring Failure"="Region Monitoring Failure";
+
+/* No comment provided by engineer. */
+"Region Monitoring Response Delayed"="Region Monitoring Response Delayed";
+
+/* No comment provided by engineer. */
+"Region Monitoring Setup Delayed"="Region Monitoring Setup Delayed";
+
+/* No comment provided by engineer. */
+"Relationship Exceeds Maximum Count"="Relationship Exceeds Maximum Count";
+
+/* No comment provided by engineer. */
+"Relationship Lacks Minimum Count"="Relationship Lacks Minimum Count";
+
+/* No comment provided by engineer. */
+"Remote side refused to send message"="Remote side refused to send message";
+
+/* No comment provided by engineer. */
+"Request Body Stream Exhausted"="Request Body Stream Exhausted";
+
+/* No comment provided by engineer. */
+"Requested invalid URL."="Requested invalid URL.";
+
+/* No comment provided by engineer. */
+"Resource Unavailable"="Resource Unavailable";
+
+/* No comment provided by engineer. */
+"Retry"="Retry";
+
+/* No comment provided by engineer. */
+"Retrying..."="Retrying...";
+
+/* No comment provided by engineer. */
+"Save Conflicts"="Save Conflicts";
+
+/* No comment provided by engineer. */
+"Save Error"="Save Error";
+
+/* No comment provided by engineer. */
+"Screen Capture Failed"="Screen Capture Failed";
+
+/* No comment provided by engineer. */
+"Script Failed"="Script Failed";
+
+/* No comment provided by engineer. */
+"Secure Connection Failed"="Secure Connection Failed";
+
+/* No comment provided by engineer. */
+"Secure connection failed!"="Secure connection failed!";
+
+/* No comment provided by engineer. */
+"Select which persistent store do you want to use:"="Select which persistent store do you want to use:";
+
+/* No comment provided by engineer. */
+"Send port became invalid"="Send port became invalid";
+
+/* No comment provided by engineer. */
+"Separator Required"="Separator Required";
+
+/* No comment provided by engineer. */
+"Server Certificate Has Bad Date"="Server Certificate Has Bad Date";
+
+/* No comment provided by engineer. */
+"Server Certificate Has Unknown Root"="Server Certificate Has Unknown Root";
+
+/* No comment provided by engineer. */
+"Server Certificate Not Yet Valid"="Server Certificate Not Yet Valid";
+
+/* No comment provided by engineer. */
+"Server Certificate Untrusted"="Server Certificate Untrusted";
+
+/* No comment provided by engineer. */
+"Server Error"="Server Error";
+
+/* No comment provided by engineer. */
+"Server Failure"="Server Failure";
+
+/* No comment provided by engineer. */
+"Server Incorrectly Configured"="Server Incorrectly Configured";
+
+/* No comment provided by engineer. */
+"Session Busy"="Session Busy";
+
+/* No comment provided by engineer. */
+"Session Configuration Changed"="Session Configuration Changed";
+
+/* No comment provided by engineer. */
+"Session Error"="Session Error";
+
+/* No comment provided by engineer. */
+"Session Interrupted"="Session Interrupted";
+
+/* No comment provided by engineer. */
+"Session Missing"="Session Missing";
+
+/* No comment provided by engineer. */
+"Session Not Running"="Session Not Running";
+
+/* No comment provided by engineer. */
+"Something Went Wrong"="Something Went Wrong";
+
+/* No comment provided by engineer. */
+"Source Media Contains Gaps"="Source Media Contains Gaps";
+
+/* No comment provided by engineer. */
+"Source Store Error"="Source Store Error";
+
+/* No comment provided by engineer. */
+"Space Required"="Space Required";
+
+/* No comment provided by engineer. */
+"Standalone Value Error"="Standalone Value Error";
+
+/* No comment provided by engineer. */
+"State Machine Error"="State Machine Error";
+
+/* No comment provided by engineer. */
+"Store Error"="Store Error";
+
+/* No comment provided by engineer. */
+"String Not Closed"="String Not Closed";
+
+/* No comment provided by engineer. */
+"String Not Started"="String Not Started";
+
+/* No comment provided by engineer. */
+"String Too Long"="String Too Long";
+
+/* No comment provided by engineer. */
+"String Too Short"="String Too Short";
+
+/* No comment provided by engineer. */
+"Tag Name Mismatch"="Tag Name Mismatch";
+
+/* No comment provided by engineer. */
+"The Facebook server could not fulfill this access request. Please contact application support."="The Facebook server could not fulfill this access request. Please contact application support.";
+
+/* No comment provided by engineer. */
+"The app was removed. Please log in again."="The app was removed. Please log in again.";
+
+/* No comment provided by engineer. */
+"The date of '%@' is invalid."="The date of '%@' is invalid.";
+
+/* No comment provided by engineer. */
+"The date of '%@' is too late."="The date of '%@' is too late.";
+
+/* No comment provided by engineer. */
+"The date of '%@' is too soon."="The date of '%@' is too soon.";
+
+/* No comment provided by engineer. */
+"The number of '%@' is too large."="The number of '%@' is too large.";
+
+/* No comment provided by engineer. */
+"The number of '%@' is too small."="The number of '%@' is too small.";
+
+/* No comment provided by engineer. */
+"The service encountered an error! Please try again later."="The service encountered an error! Please try again later.";
+
+/* No comment provided by engineer. */
+"The text of '%@' doesn't match the required pattern."="The text of '%@' doesn't match the required pattern.";
+
+/* No comment provided by engineer. */
+"The text of '%@' is too long."="The text of '%@' is too long.";
+
+/* No comment provided by engineer. */
+"The text of '%@' is too short."="The text of '%@' is too short.";
+
+/* No comment provided by engineer. */
+"There was an error while migrating data."="There was an error while migrating data.";
+
+/* No comment provided by engineer. */
+"There were %@ validation errors."="There were %@ validation errors.";
+
+/* No comment provided by engineer. */
+"Timed Out"="Timed Out";
+
+/* No comment provided by engineer. */
+"Timeout"="Timeout";
+
+/*  */
+"Timeout expired"="Timeout expired";
+
+/* No comment provided by engineer. */
+"Timeout expired during send or receive operation"="Timeout expired during send or receive operation";
+
+/* No comment provided by engineer. */
+"Too Many Requests"="Too Many Requests";
+
+/* No comment provided by engineer. */
+"Torch Level Unavailable"="Torch Level Unavailable";
+
+/* No comment provided by engineer. */
+"Transition Declined"="Transition Declined";
+
+/* No comment provided by engineer. */
+"Transition Invalid"="Transition Invalid";
+
+/* No comment provided by engineer. */
+"Type Mismatch"="Type Mismatch";
+
+/* No comment provided by engineer. */
+"URI Fragment Error"="URI Fragment Error";
+
+/* No comment provided by engineer. */
+"URI Required"="URI Required";
+
+/* No comment provided by engineer. */
+"URL Error"="URL Error";
+
+/* No comment provided by engineer. */
+"URL Path Extension Invalid"="URL Path Extension Invalid";
+
+/* No comment provided by engineer. */
+"Unable to fullfill request. Please try again later."="Unable to fullfill request. Please try again later.";
+
+/* No comment provided by engineer. */
+"Unable to post to open graph. Please try again later."="Unable to post to open graph. Please try again later.";
+
+/* No comment provided by engineer. */
+"Unable to request permissions"="Unable to request permissions";
+
+/* No comment provided by engineer. */
+"Undeclared Entity"="Undeclared Entity";
+
+/* No comment provided by engineer. */
+"Unexpected condition"="Unexpected condition";
+
+/* No comment provided by engineer. */
+"Unexpected condition within distributed object"="Unexpected condition within distributed object";
+
+/*  */
+"Unexpected error occurred!"="Unexpected error occurred!";
+
+/* No comment provided by engineer. */
+"Unfinished Tag"="Unfinished Tag";
+
+/* No comment provided by engineer. */
+"Unimplemented"="Unimplemented";
+
+/* No comment provided by engineer. */
+"Unknown Encoding"="Unknown Encoding";
+
+/* No comment provided by engineer. */
+"Unknown Error"="Unknown Error";
+
+/* No comment provided by engineer. */
+"Unknown Result"="Unknown Result";
+
+/* No comment provided by engineer. */
+"Unknown error"="Unknown error";
+
+/* No comment provided by engineer. */
+"Unknown error occurred!"="Unknown error occurred!";
+
+/* No comment provided by engineer. */
+"Unrecognized File Format"="Unrecognized File Format";
+
+/* No comment provided by engineer. */
+"Unsaved File"="Unsaved File";
+
+/* No comment provided by engineer. */
+"Unset persistent store URL"="Unset persistent store URL";
+
+/* No comment provided by engineer. */
+"Unsupported Feature"="Feature Unsupported";
+
+/* No comment provided by engineer. */
+"Unsupported Request Type"="Unsupported Request Type";
+
+/* No comment provided by engineer. */
+"Unsupported Scheme"="Unsupported Scheme";
+
+/* No comment provided by engineer. */
+"Unsupported Service"="Unsupported Service";
+
+/* No comment provided by engineer. */
+"Unsupported URL"="Unsupported URL";
+
+/* No comment provided by engineer. */
+"Unsupported operation!"="Unsupported operation!";
+
+/* No comment provided by engineer. */
+"Untrusted URL"="Untrusted URL";
+
+/* No comment provided by engineer. */
+"User Authentication Required"="User Authentication Required";
+
+/* No comment provided by engineer. */
+"User Cancelled Authentication"="User Cancelled Authentication";
+
+/* No comment provided by engineer. */
+"User Id Mismatch"="User Id Mismatch";
+
+/* No comment provided by engineer. */
+"User Interaction Required"="User Interaction Required";
+
+/* No comment provided by engineer. */
+"Username Missing"="Username Missing";
+
+/* No comment provided by engineer. */
+"Username Taken"="Username Taken";
+
+/* No comment provided by engineer. */
+"Validation Error"="Validation Error";
+
+/* No comment provided by engineer. */
+"Wrong Version"="Wrong Version";
+
+/* No comment provided by engineer. */
+"Wrong user"="Wrong user";
+
+/* No comment provided by engineer. */
+"XML Declaration Not Finished"="XML Declaration Not Finished";
+
+/* No comment provided by engineer. */
+"XML Declaration Not Started"="XML Declaration Not Started";
+
+/* No comment provided by engineer. */
+"XML Error"="XML Error";
+
+/* No comment provided by engineer. */
+"XPC Connection Error"="XPC Connection Error";
+
+/* No comment provided by engineer. */
+"XPC Connection Interrupted"="XPC Connection Interrupted";
+
+/* No comment provided by engineer. */
+"XPC Connection Invalid"="XPC Connection Invalid";
+
+/* No comment provided by engineer. */
+"XPC Connection Reply Invalid"="XPC Connection Reply Invalid";
+
+/* No comment provided by engineer. */
+"YES"="YES";
+
+/* No comment provided by engineer. */
+"You can adjust cellular network settings on iPhone in Settings > General > Cellular. On iPad the settings are located in Settings > Cellular Data\n\nTo locate nearby Wi-Fi networks, tap Settings > Wi-Fi"="You can adjust cellular network settings on iPhone in Settings > General > Cellular. On iPad the settings are located in Settings > Cellular Data\n\nTo locate nearby Wi-Fi networks, tap Settings > Wi-Fi";
+
+/* No comment provided by engineer. */
+"You can attempt to migrate data to the current version scheme or you can create a new persistent store."="You can attempt to migrate data to the current version scheme or you can create a new persistent store.";
+
+/* No comment provided by engineer. */
+"Your current session is no longer valid. Please log in again."="Your current session is no longer valid. Please log in again.";
+
+/* No comment provided by engineer. */
+"Zero Byte Resource"="Zero Byte Resource";
+
+/* No comment provided by engineer. */
+"a URL"="a URL";
+
+/* No comment provided by engineer. */
+"a boolean value"="a boolean value";
+
+/* No comment provided by engineer. */
+"a character string"="a character string";
+
+/* No comment provided by engineer. */
+"a number"="a number";
+
+/* No comment provided by engineer. */
+"a valid character string"="a valid character string";
+
+/* No comment provided by engineer. */
+"an HTTP URL"="an HTTP URL";
+
+/* No comment provided by engineer. */
+"an array"="an array";
+
+/* No comment provided by engineer. */
+"an associative array"="an associative array";
+
+/* No comment provided by engineer. */
+"iAd Error"="iAd Error";
+
+/* No comment provided by engineer. */
+"iOS API Call Error"="iOS API Call Error";
+

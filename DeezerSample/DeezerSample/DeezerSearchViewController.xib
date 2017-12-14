@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DeezerSearchViewController">
+            <connections>
+                <outlet property="_searchAlbumButton" destination="7" id="Y4v-wm-uff"/>
+                <outlet property="_searchArtistButton" destination="6" id="Al4-k2-6i6"/>
+                <outlet property="_searchPodcastButton" destination="jq9-lZ-csx" id="1QI-cJ-a4e"/>
+                <outlet property="_searchTrackButton" destination="5" id="fW5-5R-g9h"/>
+                <outlet property="_tableView" destination="8" id="16"/>
+                <outlet property="_textField" destination="4" id="10"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="400" height="400"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4">
+                    <rect key="frame" x="8" y="8" width="384" height="30"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocorrectionType="no"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="9"/>
+                    </connections>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5">
+                    <rect key="frame" x="8" y="46" width="96" height="30"/>
+                    <state key="normal" title="Tracks">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onSearchButtonPressed:" destination="-1" eventType="touchUpInside" id="Bxy-a9-can"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6">
+                    <rect key="frame" x="104" y="46" width="96" height="30"/>
+                    <state key="normal" title="Artists">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onSearchButtonPressed:" destination="-1" eventType="touchUpInside" id="FPt-hV-4vH"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7">
+                    <rect key="frame" x="200" y="46" width="96" height="30"/>
+                    <state key="normal" title="Albums">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onSearchButtonPressed:" destination="-1" eventType="touchUpInside" id="Z70-ZS-NfF"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jq9-lZ-csx">
+                    <rect key="frame" x="296" y="46" width="96" height="30"/>
+                    <state key="normal" title="Podcasts">
+                        <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onSearchButtonPressed:" destination="-1" eventType="touchUpInside" id="MwV-eZ-bOq"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="36" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="8">
+                    <rect key="frame" x="0.0" y="84" width="400" height="316"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="14"/>
+                        <outlet property="delegate" destination="-1" id="15"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.87843137250000003" green="0.87450980389999999" blue="0.86666666670000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="8" firstAttribute="leading" secondItem="1" secondAttribute="leading" id="3iz-bK-jMh"/>
+                <constraint firstItem="5" firstAttribute="centerY" secondItem="6" secondAttribute="centerY" id="59j-2n-ajK"/>
+                <constraint firstItem="6" firstAttribute="leading" secondItem="5" secondAttribute="trailing" id="9RX-gv-bAR"/>
+                <constraint firstItem="7" firstAttribute="width" secondItem="jq9-lZ-csx" secondAttribute="width" id="AVy-sv-jNm"/>
+                <constraint firstItem="7" firstAttribute="leading" secondItem="6" secondAttribute="trailing" id="DXp-va-xLp"/>
+                <constraint firstItem="6" firstAttribute="width" secondItem="7" secondAttribute="width" id="PLX-ja-I5Y"/>
+                <constraint firstItem="4" firstAttribute="top" secondItem="1" secondAttribute="top" constant="8" id="TPd-IM-rcf"/>
+                <constraint firstItem="jq9-lZ-csx" firstAttribute="trailing" secondItem="4" secondAttribute="trailing" id="Vvz-Oi-EK4"/>
+                <constraint firstAttribute="bottom" secondItem="8" secondAttribute="bottom" id="ZzE-ec-gGI"/>
+                <constraint firstItem="6" firstAttribute="leading" secondItem="5" secondAttribute="trailing" id="aOF-6i-mxu"/>
+                <constraint firstItem="5" firstAttribute="centerY" secondItem="7" secondAttribute="centerY" id="b6q-yR-b5c"/>
+                <constraint firstItem="8" firstAttribute="top" secondItem="5" secondAttribute="bottom" constant="8" id="cKy-eV-O8J"/>
+                <constraint firstItem="4" firstAttribute="leading" secondItem="1" secondAttribute="leading" constant="8" id="cZq-QA-aXu"/>
+                <constraint firstAttribute="trailing" secondItem="8" secondAttribute="trailing" id="dpo-Jq-JbQ"/>
+                <constraint firstItem="5" firstAttribute="top" secondItem="4" secondAttribute="bottom" constant="8" id="hzn-FX-axa"/>
+                <constraint firstAttribute="trailing" secondItem="4" secondAttribute="trailing" constant="8" id="lf3-qU-yAz"/>
+                <constraint firstItem="5" firstAttribute="width" secondItem="6" secondAttribute="width" id="o7e-wn-75G"/>
+                <constraint firstItem="jq9-lZ-csx" firstAttribute="leading" secondItem="7" secondAttribute="trailing" id="uaR-LX-XQx"/>
+                <constraint firstItem="5" firstAttribute="leading" secondItem="4" secondAttribute="leading" id="yDW-AJ-jZa"/>
+                <constraint firstItem="5" firstAttribute="centerY" secondItem="jq9-lZ-csx" secondAttribute="centerY" id="z7Z-CO-nqg"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="18.5" y="14.5"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

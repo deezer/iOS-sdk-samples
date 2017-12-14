@@ -1,0 +1,50 @@
+// Strings file generated with App Translator
+// Project: ErrorKit-Example
+// Language: nb
+// Date: Mon Oct 28 23:15:04 2013
+
+/* No comment provided by engineer. */
+"Application data error occurred."="Det har oppstått en programfeil.";
+
+/* No comment provided by engineer. */
+"Couldn't connect to server! Please check your Internet connection and try later"="Ingen kontakt med server! Kontroller Internett-tilkoblingen og prøv på nytt.";
+
+/* No comment provided by engineer. */
+"Database error occurred."="Feil ved databasen.";
+
+/* No comment provided by engineer. */
+"Disk I/O error occurred!"="Feil på hardisken!";
+
+/* No comment provided by engineer. */
+"Invalid data supplied!"="Ugyldig data!";
+
+/* No comment provided by engineer. */
+"Null value for key '%@'."="Ingen tilkobling for '%@'.";
+
+/* No comment provided by engineer. */
+"Operation cancelled!"="Operasjon avbrutt!";
+
+/* No comment provided by engineer. */
+"Persistent data failure."="Datafeil.";
+
+/* No comment provided by engineer. */
+"Requested invalid URL."="Ugyldig URL-adresse.";
+
+/* No comment provided by engineer. */
+"Secure connection failed!"="Sikker tilkobling ikke oppnådd!";
+
+/* No comment provided by engineer. */
+"The service encountered an error! Please try again later."="Feil oppstått! Prøv igjen senere.";
+
+/* No comment provided by engineer. */
+"There was an error while migrating data."="Det har oppstått en feil under overføring av data.";
+
+/*  */
+"Unexpected error occurred!"="Uventet feil oppstått!";
+
+/* No comment provided by engineer. */
+"Unknown error occurred!"="Ukjent feil oppstått!";
+
+/* No comment provided by engineer. */
+"Unsupported operation!"="Operasjonen støttes ikke!";
+
