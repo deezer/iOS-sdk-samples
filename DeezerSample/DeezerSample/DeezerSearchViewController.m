@@ -37,6 +37,7 @@
 
 - (void)prepareForReuse
 {
+    [super prepareForReuse];
     self.illustrationRequest = nil;
     self.imageView.image = nil;
 }

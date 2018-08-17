@@ -13,8 +13,8 @@
 		BE08EF211FA884EF004A4D6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE08EF201FA884EF004A4D6D /* Assets.xcassets */; };
 		BE08EF241FA884EF004A4D6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE08EF221FA884EF004A4D6D /* LaunchScreen.storyboard */; };
 		BE08EF3A1FA884F0004A4D6D /* DeezerSampleSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE08EF391FA884F0004A4D6D /* DeezerSampleSwiftUITests.swift */; };
-		BE23DF7C1FED2D8A0079DA66 /* libDeezer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BE23DF7B1FED2D8A0079DA66 /* libDeezer.a */; };
 		BE3A5DB11FB46AB300F63873 /* DeezerError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3A5DB01FB46AB300F63873 /* DeezerError.swift */; };
+		BE4C7DA92126FB2800865335 /* libDeezer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BE4C7DA82126FB2800865335 /* libDeezer.a */; };
 		BE5142E01FB5E0B9000B46F5 /* TestDeezerError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5142DF1FB5E0B9000B46F5 /* TestDeezerError.swift */; };
 		BE5142E11FB5E3E1000B46F5 /* DeezerError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3A5DB01FB46AB300F63873 /* DeezerError.swift */; };
 		BE5B742F1FB0C6B800C47FDC /* DeezerSelectTypeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5B742E1FB0C6B800C47FDC /* DeezerSelectTypeViewController.swift */; };
@@ -104,8 +104,8 @@
 		BE08EF351FA884F0004A4D6D /* DeezerSampleSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeezerSampleSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE08EF391FA884F0004A4D6D /* DeezerSampleSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeezerSampleSwiftUITests.swift; sourceTree = "<group>"; };
 		BE08EF3B1FA884F0004A4D6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BE23DF7B1FED2D8A0079DA66 /* libDeezer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libDeezer.a; path = ../DeezerSDK/libDeezer.a; sourceTree = "<group>"; };
 		BE3A5DB01FB46AB300F63873 /* DeezerError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeezerError.swift; sourceTree = "<group>"; };
+		BE4C7DA82126FB2800865335 /* libDeezer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libDeezer.a; path = ../DeezerSDK/libDeezer.a; sourceTree = "<group>"; };
 		BE5142DF1FB5E0B9000B46F5 /* TestDeezerError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDeezerError.swift; sourceTree = "<group>"; };
 		BE5B742E1FB0C6B800C47FDC /* DeezerSelectTypeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeezerSelectTypeViewController.swift; sourceTree = "<group>"; };
 		BE5B74301FB1B1ED00C47FDC /* DeezerPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeezerPlayerViewController.swift; sourceTree = "<group>"; };
@@ -137,7 +137,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE23DF7C1FED2D8A0079DA66 /* libDeezer.a in Frameworks */,
+				BE4C7DA92126FB2800865335 /* libDeezer.a in Frameworks */,
 				BEE5DA3D1FE1A04000D475BB /* Security.framework in Frameworks */,
 				BEE5DA3B1FE19F8300D475BB /* AVFoundation.framework in Frameworks */,
 				BEE5DA3A1FE19F7600D475BB /* UIKit.framework in Frameworks */,
@@ -172,7 +172,7 @@
 		BE0386001FE18DE10059DFEB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				BE23DF7B1FED2D8A0079DA66 /* libDeezer.a */,
+				BE4C7DA82126FB2800865335 /* libDeezer.a */,
 				BEE5DA401FE1A0B200D475BB /* libicucore.tbd */,
 				BEE5DA3C1FE19FE400D475BB /* Security.framework */,
 				BE0386111FE19B190059DFEB /* SystemConfiguration.framework */,
