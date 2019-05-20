@@ -25,12 +25,15 @@ typedef NS_ENUM(NSUInteger, DZRPlayerError) {
     /*! Previous was called on the player but the playable currently playing
      does not support two way skipping (no backward iterator, only forward) */
     DZRPlayerNotTwoWayPlayableError,
+    /*! The player has reached the skip limit */
+    DZRPlayerSkipLimitError,
 };
 /*! Key to query the original error from the Error's userInfo when a player error is reported */
 FOUNDATION_EXPORT NSString *const DZRPlayerErrorOriginalErrorKey;
 
 @interface NSError (DZRPlayer)
 + (NSError*)trackQueueErrorWithOrigninalError:(NSError*)error;
++ (NSError*)skipLimitError;
 + (NSError*)restrictedError;
 + (NSError*)notTwoWayPlayableError;
 @end
